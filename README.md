@@ -6,3 +6,5 @@ This repository holds my projects portfolio. It contains both personal projects 
 ## About Me
 Hi, I'm Justin. I'm a lifelong learner and disciplined person with high leadership spirit who are truly passionate about Data Science
 and Mathematics. Currently pursuing bachelor degree majoring Mathematics.
+
+My Linkedin profile: https://www.linkedin.com/in/cornelius-justin-satryo-hadi-b725841bb/
