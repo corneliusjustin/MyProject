@@ -2,6 +2,7 @@
 
 ## About This Repository
 This repository holds my projects portfolio. It contains both personal projects and academic courses projects.
+
 My latest projects are within Personal Projects/Python/Data Science folder, where I make a Spotify song recommendation system based on Random Forest Classifier.
 
 ## About Me
